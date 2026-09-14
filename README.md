@@ -21,7 +21,7 @@
 
 ---
 
-### 👨💻 About Me
+### 👦🏻💻 About Me
 
 ```yaml
 name: PRADIP KUMAR
