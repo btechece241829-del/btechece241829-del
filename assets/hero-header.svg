@@ -82,7 +82,7 @@
     
     <!-- Coordinate HUD labels -->
     <text x="58" y="-58" fill="#38BDF8" font-size="8" class="mono" opacity="0.7">TARGET.AI</text>
-    <text x="-95" y="80" fill="#58A6FF" font-size="8" class="mono" opacity="0.6">SYS_AZ: 128.4?</text>
+    <text x="-95" y="80" fill="#58A6FF" font-size="8" class="mono" opacity="0.6">SYS_AZ: 128.4&#176;</text>
     <text x="-80" y="-80" fill="#58A6FF" font-size="8" class="mono" opacity="0.6">NODE_ACTIVE</text>
     
     <!-- 3D Orbit Ellipse -->

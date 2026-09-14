@@ -77,7 +77,7 @@
     <rect width="180" height="52" rx="10" fill="url(#nodeGrad)" stroke="#38BDF8" stroke-width="1.5" filter="url(#techGlow)"/>
     <circle cx="20" cy="26" r="6" fill="#38BDF8"/>
     <text x="36" y="24" class="node-title">AI &amp; Machine Learning</text>
-    <text x="36" y="40" class="node-sub">Scikit-Learn ? Pandas ? Anomaly</text>
+    <text x="36" y="40" class="node-sub">Scikit-Learn &#183; Pandas &#183; Anomaly</text>
   </g>
 
   <!-- NODE 2: TOP RIGHT - PYTHON ECOSYSTEM -->
@@ -85,7 +85,7 @@
     <rect width="175" height="52" rx="10" fill="url(#nodeGrad)" stroke="#58A6FF" stroke-width="1.2"/>
     <circle cx="20" cy="26" r="6" fill="#58A6FF"/>
     <text x="36" y="24" class="node-title">Python Core &amp; APIs</text>
-    <text x="36" y="40" class="node-sub">FastAPI ? NumPy ? Matplotlib</text>
+    <text x="36" y="40" class="node-sub">FastAPI &#183; NumPy &#183; Matplotlib</text>
   </g>
 
   <!-- NODE 3: RIGHT - JAVASCRIPT & REACT -->
@@ -93,7 +93,7 @@
     <rect width="185" height="52" rx="10" fill="url(#nodeGrad)" stroke="#38BDF8" stroke-width="1.2"/>
     <circle cx="20" cy="26" r="6" fill="#61DAFB"/>
     <text x="36" y="24" class="node-title">Frontend Architecture</text>
-    <text x="36" y="40" class="node-sub">React ? JavaScript ? Tailwind</text>
+    <text x="36" y="40" class="node-sub">React &#183; JavaScript &#183; Tailwind</text>
   </g>
 
   <!-- NODE 4: BOTTOM RIGHT - DATABASES & CLOUD -->
@@ -101,7 +101,7 @@
     <rect width="180" height="52" rx="10" fill="url(#nodeGrad)" stroke="#0969DA" stroke-width="1.2"/>
     <circle cx="20" cy="26" r="6" fill="#4169E1"/>
     <text x="36" y="24" class="node-title">Database &amp; Storage</text>
-    <text x="36" y="40" class="node-sub">PostgreSQL ? SQLite ? Firebase</text>
+    <text x="36" y="40" class="node-sub">PostgreSQL &#183; SQLite &#183; Firebase</text>
   </g>
 
   <!-- NODE 5: BOTTOM - EMBEDDED SYSTEMS & IOT -->
@@ -109,7 +109,7 @@
     <rect width="180" height="52" rx="10" fill="url(#nodeGrad)" stroke="#4ADE80" stroke-width="1.5" filter="url(#techGlow)"/>
     <circle cx="20" cy="26" r="6" fill="#4ADE80"/>
     <text x="36" y="24" class="node-title">Embedded &amp; IoT</text>
-    <text x="36" y="40" class="node-sub">Sensors ? Telemetry ? Hardware</text>
+    <text x="36" y="40" class="node-sub">Sensors &#183; Telemetry &#183; Hardware</text>
   </g>
 
   <!-- NODE 6: BOTTOM LEFT - CYBERSECURITY RESEARCH -->
@@ -117,7 +117,7 @@
     <rect width="185" height="52" rx="10" fill="url(#nodeGrad)" stroke="#F43F5E" stroke-width="1.5" filter="url(#techGlow)"/>
     <circle cx="20" cy="26" r="6" fill="#F43F5E"/>
     <text x="36" y="24" class="node-title">Cybersecurity Defense</text>
-    <text x="36" y="40" class="node-sub">UPI Shield ? Fraud Simulation</text>
+    <text x="36" y="40" class="node-sub">UPI Shield &#183; Fraud Simulation</text>
   </g>
 
   <!-- NODE 7: LEFT - BACKEND & NODE.JS -->
@@ -125,7 +125,7 @@
     <rect width="180" height="52" rx="10" fill="url(#nodeGrad)" stroke="#58A6FF" stroke-width="1.2"/>
     <circle cx="20" cy="26" r="6" fill="#339933"/>
     <text x="36" y="24" class="node-title">Backend Services</text>
-    <text x="36" y="40" class="node-sub">Node.js ? Express ? REST APIs</text>
+    <text x="36" y="40" class="node-sub">Node.js &#183; Express &#183; REST APIs</text>
   </g>
 
   <!-- NODE 8: TOP LEFT - DEV TOOLS & LINUX -->
@@ -133,7 +133,7 @@
     <rect width="175" height="52" rx="10" fill="url(#nodeGrad)" stroke="#FFA657" stroke-width="1.2"/>
     <circle cx="20" cy="26" r="6" fill="#FFA657"/>
     <text x="36" y="24" class="node-title">DevOps &amp; Tooling</text>
-    <text x="36" y="40" class="node-sub">Git ? Linux ? GitHub Actions</text>
+    <text x="36" y="40" class="node-sub">Git &#183; Linux &#183; GitHub Actions</text>
   </g>
 
   <!-- ========================================================= -->
