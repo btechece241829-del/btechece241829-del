@@ -1,20 +1,17 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
+  <!-- Supercharged Dynamic Animated Typing Header -->
   <a href="https://github.com/btechece241829-del">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2800&pause=800&color=0969DA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%F0%9F%91%8B+Hey+there%2C+I'm+PRADIP+KUMAR;%F0%9F%9A%80+Developer+%7C+Builder+%7C+Tech+Enthusiast" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=30&duration=2400&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=%F0%9F%91%8B+Hello+World%2C+I'm+PRADIP+KUMAR;%E2%9A%A1+Full-Stack+Developer+%26+AI+Engineer;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Researcher+%26+Builder;%F0%9F%A4%96+Architecting+IntellStock+%26+WAREX-AI;%F0%9F%9A%80+Turning+Complex+Data+into+Intelligent+Code" alt="PRADIP KUMAR - Typing Header" />
   </a>
 
-  <!-- Visitor Badge -->
+  <!-- Badges & Status Row -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=btechece241829-del&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" alt="Profile Views" />
-  </p>
-
-  <!-- Interactive buttons -->
-  <p>
     <a href="https://github.com/btechece241829-del?tab=repositories">
-      <img src="https://img.shields.io/badge/-Repositories-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Repositories-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
     </a>
+    <img src="https://img.shields.io/badge/Status-Building%20AI%20Solutions-4ade80?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
   </p>
 
 </div>
