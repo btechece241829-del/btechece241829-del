@@ -2,11 +2,7 @@
 
 Welcome to my piece of the internet! I'm a developer from PONDICHERRY. Grab a coffee and stay a while!
 
-<div align="center">
-  <a href="https://btechece241829-del.github.io/btechece241829-del/">
-    <img src="https://img.shields.io/badge/🎮%20Play%20Neon%20Snake-Click%20Here!-4ade80?style=for-the-badge&logo=appveyor&logoColor=white" alt="Play Snake Game" />
-  </a>
-</div>
+
 
 ---
 
