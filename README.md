@@ -5,13 +5,18 @@
     <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=30&duration=2400&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=%F0%9F%91%8B+Hello%2C+I'm+PRADIP+KUMAR;%E2%9A%A1+Full-Stack+Developer+%26+AI+Engineer;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Researcher+%26+Builder;%F0%9F%A4%96+Architecting+IntellStock+%26+WAREX-AI;%F0%9F%9A%80+Turning+Complex+Data+into+Intelligent+Code" alt="PRADIP KUMAR - Typing Header" />
   </a>
 
-  <!-- Badges & Status Row -->
+  <!-- Badges & Social Links -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=btechece241829-del&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" alt="Profile Views" />
     <a href="https://github.com/btechece241829-del?tab=repositories">
       <img src="https://img.shields.io/badge/-Repositories-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Building%20AI%20Solutions-4ade80?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+    <a href="https://www.linkedin.com/in/pradipkumar-a-expert" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/_pradip_.04" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
   </p>
 
 </div>
@@ -32,6 +37,9 @@ currently_building:
   - WAREX-AI (AI Warehouse Intelligence)
   - UPI Fraud Detection Suite
   - Customer Segmentation Models
+socials:
+  linkedin: https://www.linkedin.com/in/pradipkumar-a-expert
+  instagram: https://www.instagram.com/_pradip_.04
 ```
 
 ---
@@ -128,6 +136,26 @@ RFM-based K-Means customer segmentation to drive personalized marketing and maxi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/btechece241829-del/btechece241829-del/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/btechece241829-del/btechece241829-del/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pradipkumar-a-expert" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/_pradip_.04" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/btechece241829-del">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
 
 ---
 
