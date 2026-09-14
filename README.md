@@ -2,7 +2,7 @@
 
   <!-- Supercharged Dynamic Animated Typing Header -->
   <a href="https://github.com/btechece241829-del">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=30&duration=2400&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=%F0%9F%91%8B+Hello+World%2C+I'm+PRADIP+KUMAR;%E2%9A%A1+Full-Stack+Developer+%26+AI+Engineer;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Researcher+%26+Builder;%F0%9F%A4%96+Architecting+IntellStock+%26+WAREX-AI;%F0%9F%9A%80+Turning+Complex+Data+into+Intelligent+Code" alt="PRADIP KUMAR - Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=30&duration=2400&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=%F0%9F%91%8B+Hello%2C+I'm+PRADIP+KUMAR;%E2%9A%A1+Full-Stack+Developer+%26+AI+Engineer;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Researcher+%26+Builder;%F0%9F%A4%96+Architecting+IntellStock+%26+WAREX-AI;%F0%9F%9A%80+Turning+Complex+Data+into+Intelligent+Code" alt="PRADIP KUMAR - Typing Header" />
   </a>
 
   <!-- Badges & Status Row -->
