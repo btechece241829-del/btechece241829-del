@@ -104,14 +104,6 @@ RFM-based K-Means customer segmentation to drive personalized marketing and maxi
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=btechece241829-del&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=38bdf8&text_color=e2e8f0&icon_color=a78bfa&bg_color=0d1117" alt="GitHub Stats" height="175" />
-  &nbsp;
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=btechece241829-del&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=38bdf8&text_color=e2e8f0&bg_color=0d1117" alt="Top Languages" height="175" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=btechece241829-del&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=38bdf8&fire=f43f5e&currStreakLabel=38bdf8&sideLabels=a78bfa&dates=7c8db5" alt="GitHub Streak" />
 </div>
 
