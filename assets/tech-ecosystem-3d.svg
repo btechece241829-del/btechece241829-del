@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 420" width="100%" height="420" fill="none">
+  <defs>
+    <linearGradient id="techBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="50%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#091428"/>
+    </linearGradient>
+    <linearGradient id="coreGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#0969DA"/>
+      <stop offset="100%" stop-color="#042C61"/>
+    </linearGradient>
+    <linearGradient id="nodeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="busGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="techGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .core-title { font-family: 'JetBrains Mono', monospace; font-weight: 900; font-size: 15px; fill: #FFFFFF; letter-spacing: 1.5px; }
+    .node-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 700; font-size: 13px; fill: #E2F1FF; }
+    .node-sub { font-family: 'JetBrains Mono', monospace; font-size: 9.5px; fill: #8B949E; }
+  </style>
+
+  <!-- Background Base -->
+  <rect x="2" y="2" width="946" height="416" rx="14" fill="url(#techBg)" stroke="#30363D" stroke-width="1.5"/>
+
+  <!-- 3D Isometric Ground Grid Plane -->
+  <g opacity="0.6">
+    <!-- Isometric Ellipse Ring 1 -->
+    <ellipse cx="475" cy="210" rx="390" ry="145" fill="none" stroke="#0969DA" stroke-width="1" stroke-opacity="0.25"/>
+    <!-- Isometric Ellipse Ring 2 -->
+    <ellipse cx="475" cy="210" rx="270" ry="100" fill="none" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.35" stroke-dasharray="6,6"/>
+    <!-- Isometric Ellipse Ring 3 -->
+    <ellipse cx="475" cy="210" rx="140" ry="52" fill="none" stroke="#58A6FF" stroke-width="1.5" stroke-opacity="0.5"/>
+  </g>
+
+  <!-- Connecting 3D Circuit Bus Lines from Core to Nodes -->
+  <g stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.4">
+    <!-- To Top Node -->
+    <line x1="475" y1="160" x2="475" y2="95"/>
+    <!-- To Top-Right Node -->
+    <line x1="535" y1="185" x2="670" y2="105"/>
+    <!-- To Right Node -->
+    <line x1="555" y1="210" x2="745" y2="210"/>
+    <!-- To Bottom-Right Node -->
+    <line x1="535" y1="235" x2="685" y2="315"/>
+    <!-- To Bottom Node -->
+    <line x1="475" y1="260" x2="475" y2="325"/>
+    <!-- To Bottom-Left Node -->
+    <line x1="415" y1="235" x2="265" y2="315"/>
+    <!-- To Left Node -->
+    <line x1="395" y1="210" x2="205" y2="210"/>
+    <!-- To Top-Left Node -->
+    <line x1="415" y1="185" x2="280" y2="105"/>
+  </g>
+
+  <!-- ========================================================= -->
+  <!-- SURROUNDING HOLOGRAPHIC 3D TECH NODES                     -->
+  <!-- ========================================================= -->
+
+  <!-- NODE 1: TOP - AI / MACHINE LEARNING -->
+  <g transform="translate(385, 45)">
+    <rect width="180" height="52" rx="10" fill="url(#nodeGrad)" stroke="#38BDF8" stroke-width="1.5" filter="url(#techGlow)"/>
+    <circle cx="20" cy="26" r="6" fill="#38BDF8"/>
+    <text x="36" y="24" class="node-title">AI &amp; Machine Learning</text>
+    <text x="36" y="40" class="node-sub">Scikit-Learn ? Pandas ? Anomaly</text>
+  </g>
+
+  <!-- NODE 2: TOP RIGHT - PYTHON ECOSYSTEM -->
+  <g transform="translate(660, 80)">
+    <rect width="175" height="52" rx="10" fill="url(#nodeGrad)" stroke="#58A6FF" stroke-width="1.2"/>
+    <circle cx="20" cy="26" r="6" fill="#58A6FF"/>
+    <text x="36" y="24" class="node-title">Python Core &amp; APIs</text>
+    <text x="36" y="40" class="node-sub">FastAPI ? NumPy ? Matplotlib</text>
+  </g>
+
+  <!-- NODE 3: RIGHT - JAVASCRIPT & REACT -->
+  <g transform="translate(735, 185)">
+    <rect width="185" height="52" rx="10" fill="url(#nodeGrad)" stroke="#38BDF8" stroke-width="1.2"/>
+    <circle cx="20" cy="26" r="6" fill="#61DAFB"/>
+    <text x="36" y="24" class="node-title">Frontend Architecture</text>
+    <text x="36" y="40" class="node-sub">React ? JavaScript ? Tailwind</text>
+  </g>
+
+  <!-- NODE 4: BOTTOM RIGHT - DATABASES & CLOUD -->
+  <g transform="translate(670, 290)">
+    <rect width="180" height="52" rx="10" fill="url(#nodeGrad)" stroke="#0969DA" stroke-width="1.2"/>
+    <circle cx="20" cy="26" r="6" fill="#4169E1"/>
+    <text x="36" y="24" class="node-title">Database &amp; Storage</text>
+    <text x="36" y="40" class="node-sub">PostgreSQL ? SQLite ? Firebase</text>
+  </g>
+
+  <!-- NODE 5: BOTTOM - EMBEDDED SYSTEMS & IOT -->
+  <g transform="translate(385, 325)">
+    <rect width="180" height="52" rx="10" fill="url(#nodeGrad)" stroke="#4ADE80" stroke-width="1.5" filter="url(#techGlow)"/>
+    <circle cx="20" cy="26" r="6" fill="#4ADE80"/>
+    <text x="36" y="24" class="node-title">Embedded &amp; IoT</text>
+    <text x="36" y="40" class="node-sub">Sensors ? Telemetry ? Hardware</text>
+  </g>
+
+  <!-- NODE 6: BOTTOM LEFT - CYBERSECURITY RESEARCH -->
+  <g transform="translate(100, 290)">
+    <rect width="185" height="52" rx="10" fill="url(#nodeGrad)" stroke="#F43F5E" stroke-width="1.5" filter="url(#techGlow)"/>
+    <circle cx="20" cy="26" r="6" fill="#F43F5E"/>
+    <text x="36" y="24" class="node-title">Cybersecurity Defense</text>
+    <text x="36" y="40" class="node-sub">UPI Shield ? Fraud Simulation</text>
+  </g>
+
+  <!-- NODE 7: LEFT - BACKEND & NODE.JS -->
+  <g transform="translate(35, 185)">
+    <rect width="180" height="52" rx="10" fill="url(#nodeGrad)" stroke="#58A6FF" stroke-width="1.2"/>
+    <circle cx="20" cy="26" r="6" fill="#339933"/>
+    <text x="36" y="24" class="node-title">Backend Services</text>
+    <text x="36" y="40" class="node-sub">Node.js ? Express ? REST APIs</text>
+  </g>
+
+  <!-- NODE 8: TOP LEFT - DEV TOOLS & LINUX -->
+  <g transform="translate(115, 80)">
+    <rect width="175" height="52" rx="10" fill="url(#nodeGrad)" stroke="#FFA657" stroke-width="1.2"/>
+    <circle cx="20" cy="26" r="6" fill="#FFA657"/>
+    <text x="36" y="24" class="node-title">DevOps &amp; Tooling</text>
+    <text x="36" y="40" class="node-sub">Git ? Linux ? GitHub Actions</text>
+  </g>
+
+  <!-- ========================================================= -->
+  <!-- CENTRAL 3D HOLOGRAPHIC CORE                               -->
+  <!-- ========================================================= -->
+  <g transform="translate(475, 210)">
+    <!-- Base Glow Shadow -->
+    <ellipse cx="0" cy="18" rx="80" ry="32" fill="#0969DA" opacity="0.35" filter="url(#techGlow)"/>
+
+    <!-- Central Isometric Hexagon / Diamond Body -->
+    <polygon points="0,-48 70,-16 70,32 0,64 -70,32 -70,-16" fill="url(#coreGrad)" stroke="#38BDF8" stroke-width="2" filter="url(#techGlow)"/>
+
+    <!-- Top Facet of Isometric Block -->
+    <polygon points="0,-48 70,-16 0,0 -70,-16" fill="#58A6FF" opacity="0.45"/>
+
+    <!-- Center Data Core Text -->
+    <text x="0" y="8" text-anchor="middle" class="core-title">CORE ENGINE</text>
+    <text x="0" y="26" text-anchor="middle" fill="#E2F1FF" font-size="10" class="mono">3D TECH STACK</text>
+    <text x="0" y="42" text-anchor="middle" fill="#38BDF8" font-size="8.5" class="mono">v2.6 // INTEGRATED</text>
+  </g>
+
+  <!-- Header HUD Tag -->
+  <g transform="translate(25, 25)">
+    <text x="0" y="0" fill="#38BDF8" font-size="11" class="mono" font-weight="700" letter-spacing="1.5">// 3D TECHNOLOGY ECOSYSTEM ARCHITECTURE</text>
+  </g>
+</svg>
