@@ -15,9 +15,6 @@
     <a href="https://github.com/btechece241829-del?tab=repositories">
       <img src="https://img.shields.io/badge/-Repositories-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://btechece241829-del.github.io/btechece241829-del/snake.html">
-      <img src="https://img.shields.io/badge/🎮%20Play%20Neon%20Snake-4ade80?style=for-the-badge&logoColor=white" />
-    </a>
   </p>
 
 </div>
@@ -68,7 +65,7 @@ currently_building:
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🛡️ UPI-fraudection
 Phishing simulation & OTP extraction toolkit for security research and defensive education.
@@ -78,7 +75,7 @@ Phishing simulation & OTP extraction toolkit for security research and defensive
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🏢 IntellStock / WAREX-AI
 AI-powered warehouse intelligence platform with demand forecasting, anomaly detection & smart inventory.
@@ -88,25 +85,13 @@ AI-powered warehouse intelligence platform with demand forecasting, anomaly dete
 </a>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🎯 smart-seg
 RFM-based K-Means customer segmentation to drive personalized marketing and maximize CLV.
 <br/><br/>
 <a href="https://github.com/btechece241829-del/smart-seg">
   <img src="https://img.shields.io/badge/VIEW%20REPO-4ade80?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎮 Play Neon Snake Game
-Interactive neon-themed snake game playable directly in your browser with mobile touch & high scores.
-<br/><br/>
-<a href="https://btechece241829-del.github.io/btechece241829-del/snake.html">
-  <img src="https://img.shields.io/badge/PLAY%20NOW-f43f5e?style=for-the-badge&logoColor=white" />
 </a>
 
 </td>
