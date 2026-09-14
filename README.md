@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://github.com/btechece241829-del">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%F0%9F%91%8B+Hey+there%2C+I'm+PRADIP+KUMAR;%F0%9F%9A%80+Developer+%7C+Builder+%7C+Tech+Enthusiast" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2800&pause=800&color=0969DA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%F0%9F%91%8B+Hey+there%2C+I'm+PRADIP+KUMAR;%F0%9F%9A%80+Developer+%7C+Builder+%7C+Tech+Enthusiast" alt="Typing Header" />
   </a>
 
   <!-- Visitor Badge -->
