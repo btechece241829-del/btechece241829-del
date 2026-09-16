@@ -119,7 +119,7 @@
     <text x="0" y="0" fill="#38BDF8" font-size="12" class="mono" letter-spacing="1.5" opacity="0.9">> INITIALIZING QUANTUM WORKSPACE v2.6...</text>
 
     <!-- Main Name Typography -->
-    <text x="0" y="48" fill="url(#textGrad)" font-size="44" class="sans" font-weight="900" letter-spacing="2.5" filter="url(#softGlow)">PRADIP KUMAR</text>
+    <text x="0" y="48" fill="url(#textGrad)" font-size="44" class="sans" font-weight="900" letter-spacing="2.5" filter="url(#softGlow)">PRADIP KUMAR A</text>
 
     <!-- Core Title & Focus -->
     <g transform="translate(0, 78)">
